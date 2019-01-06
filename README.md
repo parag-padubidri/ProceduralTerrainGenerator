@@ -50,7 +50,7 @@ Workaround : Always ensure Map Input Node first connects to Perlin Node and then
 
 Link to detailed tool description with screenshots on my blog: 
 --------------------------------------------------------------
-http://paragpadubidri.com/portfolio/single-post/2016/10/09/Procedural-Terrain-Generation-using-Node-Based-Editor
+https://www.paragpadubidri.com/single-post/2016/10/09/Procedural-Terrain-Generation-using-Node-Based-Editor
 
 
 References:
